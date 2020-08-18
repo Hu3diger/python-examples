@@ -4,7 +4,7 @@ pesoMaximo = 50.0
 
 if (peso > pesoMaximo):
     excesso = peso - pesoMaximo
-    print ('Excesso de peso:', excesso)
-    print ('Valor da multa por excesso', excesso * multaPorQuilo)
+    print(('Excesso de peso:', excesso)
+    print(('Valor da multa por excesso', excesso * multaPorQuilo)
 else:
-    print ('Nao houve excesso de peso')
+    print(('Nao houve excesso de peso')

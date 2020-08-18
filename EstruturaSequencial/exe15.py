@@ -7,8 +7,8 @@ inss = salarioBruto * 0.08
 sindicato = salarioBruto * 0.05
 salarioLiquido = salarioBruto - impostoRenda - inss - sindicato
 
-print ('Salario Bruto:', salarioBruto)
-print ('Imposto de Renda:', impostoRenda)
-print ('INSS:', inss)
-print ('Sindicato:', sindicato)
-print ('Salario Liquido:', salarioLiquido)
+print(('Salario Bruto:', salarioBruto)
+print(('Imposto de Renda:', impostoRenda)
+print(('INSS:', inss)
+print(('Sindicato:', sindicato)
+print(('Salario Liquido:', salarioLiquido)

@@ -18,6 +18,6 @@ mixGaloes = int((litros - (mixLatas * 18.0)) / 3.6)
 if ((litros - (mixLatas * 18.0) % 3.6 != 0)):
     mixGaloes += 1
 
-print ('Latas:', latas, '. Valor:', latas * 80)
-print ('Galoes:', galoes, '. Valor:', galoes * 25)
-print ('Latas:', mixLatas, 'e', mixGaloes, '. Valor: ', (mixLatas * 80)+(mixGaloes*25))
+print(('Latas:', latas, '. Valor:', latas * 80)
+print(('Galoes:', galoes, '. Valor:', galoes * 25)
+print(('Latas:', mixLatas, 'e', mixGaloes, '. Valor: ', (mixLatas * 80)+(mixGaloes*25))
