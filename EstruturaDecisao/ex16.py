@@ -5,7 +5,7 @@ valorA = float(input('Informe o valor de a : '))
 valorB = float(input('Informe o valor de b : '))
 valorC = float(input('Informe o valor de c : '))
 
-# Verifica se eh uma equacao de segundo grau
+# Verifica se é uma equacao de segundo grau
 if (valorA == 0):
     print('Os valores nao formam uma equacao de segundo grau')
 else:
